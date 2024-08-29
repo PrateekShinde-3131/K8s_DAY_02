@@ -1,6 +1,6 @@
 # K8s_DAY_02
 ## Clone a sample git repository using the below command or use your project for the demo:
-git clone https://github.com/docker/getting-started-app.git
+ git clone https://github.com/docker/getting-started-app.git
 
 ## cd into the directory
 cd getting-started-app/
